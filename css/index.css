@@ -52,53 +52,6 @@ li a:hover {
     background-color: lightgray;
   }
 
-.squareSubBlock{
-    display: inline-block;
-    width: 650px;
-    height: 200px;
-    background-color: white;
-}
-
-.gsquareSubBlock{
-    display: inline-block;
-    width: 650px;
-    height: 300px;
-    background-color: white;
-}
-
-.wideSubBlock{
-    display: inline-block;
-    width: 600px;
-    height: 200px;
-    background-color: white;
-}
-
-.lwideSubBlock{
-    display: inline-block;
-    width: 600px;
-    height: 360px;
-    background-color: white;
-}
-.rsquareSubBlock{
-    display: inline-block;
-    width: 650px;
-    height: 400px;
-    background-color: white;
-}
-
-.vwideSubBlock{
-    display: inline-block;
-    width: 600px;
-    height: 330px;
-    background-color: white;
-}
-
-.esquareSubBlock{
-    display: inline-block;
-    width: 650px;
-    height: 425px;
-    background-color: white;
-}
 
 
 
