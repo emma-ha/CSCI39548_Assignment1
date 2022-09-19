@@ -1,5 +1,4 @@
-# zoo-starter-code
+# Assignment 1 Web Dev
 
-This repository is the website starter code for Assignment 1 - Zoo.
-
-[Website link](https://johnnylaicode.github.io/zoo-starter-code/)
+This is the repository for Emma Haque's assignment 1 
+[Website link](https://github.com/emma-ha/CSCI39548_Assignment1)
